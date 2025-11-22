@@ -19,9 +19,9 @@ arr = np.array([1, 2, 3, 4, 5])
 Write a Python code to multiply each element in the array by 2.
 
 Answer:
-arr*2
-```python
 
+```python
+arr=arr*2
 ```
 
 ### Question 2
@@ -35,9 +35,9 @@ arr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
 Write a Python code to select the second row of the array.
 
 Answer:
-arr[1]
-```python
 
+```python
+arr[1]
 ```
 
 ### Question 3
@@ -45,9 +45,9 @@ arr[1]
 Create a 2D numpy array of shape (5, 5) filled with the number 1.
 
 Answer:
-np.one(2,2)
-```python
 
+```python
+np.one(2,2)
 ```
 
 ### Question 4
