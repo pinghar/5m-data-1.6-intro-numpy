@@ -19,7 +19,7 @@ arr = np.array([1, 2, 3, 4, 5])
 Write a Python code to multiply each element in the array by 2.
 
 Answer:
-
+arr*2
 ```python
 
 ```
